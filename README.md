@@ -1,2 +1,2 @@
-# Tatva
-Hii this is demo so that i know how Git works
+# Pneumonia Detection Using Deep Learning
+In this Final Year Project of mine I have done things that ..........
