@@ -47,7 +47,5 @@ To replicate or build upon this project, follow the steps below:
 
 I would like to express my gratitude to my advisors and mentors who provided guidance and support throughout the project. Additionally, I would like to thank the creators and contributors of the open-source libraries and datasets that were instrumental in the development and evaluation of this project.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
